@@ -1,8 +1,8 @@
 {
-  "name": "Ghost on Heroku",
-  "description": "Just a blogging platform",
-  "logo": "https://cdn.rawgit.com/TryGhost/Ghost-Admin/61fe83dff375a145d5272a5382aa2c72bd994830/public/assets/img/large.png",
-  "repository": "https://github.com/cobyism/ghost-on-heroku",
+  "name": "PsyCoder",
+  "description": "My blog",
+  "logo": "https://github.com/sourabhv/psycoder/logo.png",
+  "repository": "https://github.com/sourabhv/psycoder",
   "success_url": "/ghost",
   "addons": [
     "heroku-postgresql",
